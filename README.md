@@ -1,7 +1,7 @@
 <h1>Calculadora</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto feito para treinar HTML, CSS e Javascript</p>
+<p>Projeto feito para treinar e aprender sobre HTML, CSS e Javascript.</p>
 
 ## 🚀 Tecnologias
 <div>
@@ -11,10 +11,9 @@
 </div>
 
 #
-<img src="/img/assetmimagem-calculadora">
+<img src="/img//assets/imagem-calculadora.gif">
 Link para acessar a calculadora: https://calculadora-ten-ecru.vercel.app/
-
 #
 
-|  |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127322330?v=4" width=115><br><sub>Pedro Marques</sub>](https://github.com/PedroHML1) |
 | :---: |
