@@ -11,7 +11,7 @@
 </div>
 
 #
-<img src="/img//assets/imagem-calculadora">
+<img src="/img/imagem-calculadora">
 Link para acessar o jogo: https://jogo-numero-secreto-wheat.vercel.app/
 
 #
