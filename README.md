@@ -11,8 +11,10 @@
 </div>
 
 #
+
 <img src="/img//assets/imagem-calculadora.gif">
 Link para acessar a calculadora: https://calculadora-ten-ecru.vercel.app/
+
 #
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127322330?v=4" width=115><br><sub>Pedro Marques</sub>](https://github.com/PedroHML1) |
