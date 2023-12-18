@@ -13,7 +13,7 @@
 #
 
 <img src="/img//assets/imagem-calculadora.gif">
-Link para acessar a calculadora: https://calculadora-ten-ecru.vercel.app/
+Link para calculadora: https://calculadora-ten-ecru.vercel.app/
 
 #
 
